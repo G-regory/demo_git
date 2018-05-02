@@ -7,3 +7,9 @@ une demo qui se partage maintenant
 <html>
   <head>
     <!--ca faiisait logtemps-->
+      
+  </head>
+  <body>
+    <h1>titre</h1>
+  </body>
+</html>
